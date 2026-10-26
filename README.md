@@ -7,6 +7,7 @@
         </picture>
     </a>
     <p><em>🗂️ Beyond image hosting: an all-in-one, open-source file management hub.</em></p>
+    
     <p>
         <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README_zh.md">简体中文</a> &nbsp;·&nbsp; <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README.md">English</a> &nbsp;·&nbsp; <a href="https://cfbed.sanyue.de/en">Official Website</a> &nbsp;·&nbsp; <a href="https://t.me/sanyue_club">Telegram Channel</a> &nbsp;·&nbsp; <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/discussions/categories/announcements">Announcements</a>
     </p>
